@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lordoftime39
+- 👋 Hi, I’m @JamesMcSweeney
 - 👀 I’m interested in Data Science and Software Engineering 
 - 🌱 I’m currently studying at the University of Miami
 - 💞️ I’m looking to learn
